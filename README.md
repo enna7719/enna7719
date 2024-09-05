@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enna7719
+- 👋 Hi, I’m Beti
 - 👀 I’m interested in ... machine learning
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
